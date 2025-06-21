@@ -13,6 +13,20 @@ let candidates = [
     description: "Community leader",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
   },
+  {
+    id: "3",
+    name: "Bob",
+    party: "Liberal",
+    description: "Community leader",
+    image: "https://randomuser.me/api/portraits/men/75.jpg",
+  },
+  {
+    id: "4",
+    name: "Bob",
+    party: "Republican",
+    description: "Community leader",
+    image: "https://randomuser.me/api/portraits/men/75.jpg",
+  },
 ];
 
 
